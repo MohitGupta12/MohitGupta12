@@ -1,13 +1,3 @@
-<!-- Add CSS styling -->
-<style>
-  .image-container {
-    display: flex;
-    justify-content: center;
-  }
-  .image-container a {
-    margin: 0 10px; /* Adjust the margin as needed */
-  }
-</style>
 
 <!-- Images in a single line with styling -->
 <div class="image-container">
