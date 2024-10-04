@@ -16,21 +16,21 @@
 💬 About line 4 <br><br>
 ⚡ About line 5 💫 <br><br><br>
 
-# GitHub Stats
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/midnight_purple/0-profile-details.svg" />
+ <h2> GitHub Stats </h2>
+  <a   href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img align="right" src="https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/midnight_purple/0-profile-details.svg" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/midnight_purple/1-repos-per-language.svg" />
+    <img align="right" src="https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/midnight_purple/1-repos-per-language.svg" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/midnight_purple/2-most-commit-language.svg" />
+    <img  align="right" src="https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/midnight_purple/2-most-commit-language.svg" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/midnight_purple/3-stats.svg" />
+    <img  align="right" src="https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/midnight_purple/3-stats.svg" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/midnight_purple/4-productive-time.svg" />
+    <img  align="right" src="https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/midnight_purple/4-productive-time.svg" />
   </a>
 
 <h3 align="left">Connect With Mohit:</h3>
