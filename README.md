@@ -32,23 +32,23 @@ About Me
 <br><br>
 
 
+<h2>Education and Certifications</h2>
 
 
+<h2> Teck Stack </h2>
 
- <h2> GitHub Stats </h2>
- 
+
+<h2> Projects </h2>
+
+
+<h2>Connect With me</h2>
+
+<h2> GitHub Stats </h2
+
 [![](https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/nightowl/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/nightowl/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/nightowl/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/nightowl/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/nightowl/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/nightowl/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/nightowl/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/nightowl/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/nightowl/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<img align="right" src="https://github.com/user-attachments/assets/2a3363ec-24d5-4e56-b357-8e50d7e69953" height="300px" width="230px" />
-
-
-
-<h3 align="left">Connect With Mohit:</h3>
-<p align="left">
-<a href="https://twitter.com/piyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyush" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/peeyush ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peeyush ." height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
-</p>
+<h2> Baddges </h2>
