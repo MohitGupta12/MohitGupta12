@@ -1,7 +1,7 @@
 
 
 <p>
-  <img height="400" width="1000px" src="https://i.pinimg.com/originals/04/a1/6c/04a16c392c31e5108ce6f9b66558e25d.gif" />
+  <img height="370" width="1000px" src="https://i.pinimg.com/originals/04/a1/6c/04a16c392c31e5108ce6f9b66558e25d.gif" style=" object-fit: cover;"  />
 </p>
 
 
@@ -21,15 +21,15 @@ About Me
 <img align="right" src="https://github.com/user-attachments/assets/b0aa2c71-2836-4d12-b938-b94579ae1ee7" height="300px" width="300px"  />
 
 <br>
-- A Btech Graduate who loves to code and build stuff
+- A Btech Graduate who loves to code and build stuff 💻.
 <br><br>
-- Experienced in  both Web-dev (MERN) and Android-dev (Flutter, Firebase)
+- Experienced in  both 🌐Web-dev (MERN) and 📱Android-dev (Flutter, Firebase)
 <br><br>
-- Have explored technologies like Web3, Web Extensions, IoT, Networks, and ML, although I haven't built any projects in these areas YET.
+- Have explored technologies like Web3, Web Extensions, IoT, Networks, and ML, although I haven't built any projects in these areas YET 😏.
 <br><br>
-- Apart from my technical aspect, I enjoy tactical games like TFT and chess, and relaxing with anime.
+- Apart from my technical aspect, I enjoy tactical games like 🎮TFT and ♟️chess, and relaxing with anime.
 <br><br>
-- Currently diving deep into Cloud, DevOps and CI/CD workflows.
+- Currently diving deep into Cloud☁️, DevOps and CI/CD workflows.
 <br><br>
 
 
