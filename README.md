@@ -6,9 +6,8 @@
 
 
 
-
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=1000&pause=400&multiline=true&width=650&height=150&lines=%24whoami;Yo%2C+it's+me++;Mohit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=35&duration=1000&pause=500&multiline=true&width=650&height=120&lines=%24whoami;Yo%2C+it's+me;Mohit" alt="Typing SVG" />
  </a>
 
 
