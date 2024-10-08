@@ -19,24 +19,14 @@
 👯 Aout Line 2 <br><br>
 🌱 About line 3<br><br>
 💬 About line 4 <br><br>
-⚡ About line 5 💫 <br><br><br>
+⚡ About line 5 💫 <br><br><br><br>
 
  <h2> GitHub Stats </h2>
-  <a   href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="right" src="https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/midnight_purple/0-profile-details.svg" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="right" src="https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/midnight_purple/1-repos-per-language.svg" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img  align="right" src="https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/midnight_purple/2-most-commit-language.svg" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img  align="right" src="https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/midnight_purple/3-stats.svg" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img  align="right" src="https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/midnight_purple/4-productive-time.svg" />
-  </a>
+ 
+[![](https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/nightowl/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/nightowl/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/nightowl/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/nightowl/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MohitGupta12/MohitGupta12/master/profile-summary-card-output/nightowl/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <h3 align="left">Connect With Mohit:</h3>
 <p align="left">
