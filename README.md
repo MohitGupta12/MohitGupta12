@@ -1,8 +1,13 @@
 
 
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Yo, Mohit Gupta</h1> 
-<h2 align="center">Blank Blank Blank </h2>
+
+
+<h1 style="text-align: center;">
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=1000&pause=400&multiline=true&width=650&height=150&lines=%24whoami;Yo%2C+it's+me++;Mohit" alt="Typing SVG" />
+ </a>
+</h1>
 
 
 
