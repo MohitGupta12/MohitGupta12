@@ -1,7 +1,7 @@
 
 
 <p>
-  <img height="400" width="1000px" src="https://i.pinimg.com/originals/72/ca/20/72ca2020ac37eb889622274ee7f21744.gif" />
+  <img height="300" width="1000px" src="https://i.pinimg.com/originals/72/ca/20/72ca2020ac37eb889622274ee7f21744.gif" />
 </p>
 
 <h1 style="text-align: center;">
