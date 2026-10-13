@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Mohit, Cloud and DevOps engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f1a"/><stop offset="1" stop-color="#101a2e"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".05"/>
+    </pattern>
+    <radialGradient id="glow" cx=".8" cy=".2" r=".6">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity=".28"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .t{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+      .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace}
+      .node{animation:pulse 3s ease-in-out infinite}
+      .n2{animation-delay:.8s}.n3{animation-delay:1.6s}.n4{animation-delay:2.2s}
+      @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+      .flow{stroke-dasharray:6 8;animation:dash 2.5s linear infinite}
+      @keyframes dash{to{stroke-dashoffset:-56}}
+      .cur{animation:blink 1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+    </style>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+
+  <!-- infrastructure graph -->
+  <g stroke="url(#ac)" stroke-width="1.5" fill="none" opacity=".6">
+    <path class="flow" d="M820 80 L940 150 L1060 90"/>
+    <path class="flow" d="M940 150 L900 250 L1030 240"/>
+    <path class="flow" d="M1060 90 L1130 190 L1030 240"/>
+  </g>
+  <g fill="#0b0f1a" stroke="url(#ac)" stroke-width="2">
+    <rect class="node" x="806" y="66" width="28" height="28" rx="7"/>
+    <rect class="node n2" x="926" y="136" width="28" height="28" rx="7"/>
+    <rect class="node n3" x="1046" y="76" width="28" height="28" rx="7"/>
+    <rect class="node n4" x="886" y="236" width="28" height="28" rx="7"/>
+    <rect class="node n2" x="1016" y="226" width="28" height="28" rx="7"/>
+    <rect class="node n3" x="1116" y="176" width="28" height="28" rx="7"/>
+  </g>
+
+  <text class="mono" x="80" y="92" font-size="18" fill="#34d399">~/mohit <tspan fill="#64748b">$</tspan> whoami<tspan class="cur" fill="#38bdf8"> ▍</tspan></text>
+  <text class="t" x="76" y="178" font-size="84" font-weight="800" fill="#f8fafc" letter-spacing="-2">Mohit<tspan fill="url(#ac)">.</tspan></text>
+  <text class="t" x="80" y="226" font-size="28" font-weight="500" fill="#cbd5e1">Cloud &amp; DevOps engineer in the making</text>
+  <text class="mono" x="80" y="266" font-size="16" fill="#64748b">kubernetes · ci/cd · infrastructure · full-stack · new delhi</text>
+  <rect x="0" y="316" width="1200" height="4" fill="url(#ac)"/>
+</svg>
